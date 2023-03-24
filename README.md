@@ -29,7 +29,7 @@ e.musk@tesla.com - jeff@amazon.com - ryanwood_2334@yahoo.com
 
 The following image shows the web application's appearance and functionality:
 
-![Challenge-1 Screenshot](./Develop/assets/images/screenshot%20for%20challenge%201.png)
+![Challenge-1 Screenshot](./assets/images/screenshot%20for%20challenge%201.png)
 
 
 ## Credits
